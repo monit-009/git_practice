@@ -5,5 +5,5 @@ def multiplication(a,b):
 def sum(a,d):
     print("herlll")
     return(a*b)
-def multiplication(a,b):
-    return(a*b)
+def division(a,b):
+    return(a/b)
